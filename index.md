@@ -17,7 +17,7 @@ Previously, I was a data science intern at [Western Union](https://westernunion.
 Wanna chat? Feel free to reach out!
 
 Email: arsh.vishen@berkeley.edu
-[Linkedin]
+[Linkedin](https://www.linkedin.com/in/arshvishen)
 
 ## 📠 Fun facts
 
