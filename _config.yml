@@ -1,9 +1,9 @@
 # things you probably want to change
 # url is the website domain url without a trailing slash
-url: https://ebenji.github.io/portfolio/
+url: https://arsh-vishen.github.io
 # name of website
-title: Ethan Benjamin
-description: Ethan Benjamin's Online Presence
+title: Arsh Vishen
+description: 
 nav-links:
   - name: Home
     url: /
