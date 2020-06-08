@@ -3,6 +3,8 @@
 
 ## 🤷 What I do
 
+I'm passionate about combining data-driven decision making and customer empathy to create products that people love. 
+
 I'm currently a product management intern at [CyberCube](https://cybcube.com/), where I help deliver cyber risk analytics software for the insurance industry. 
 
 ## 🦕 What I've done before
@@ -18,9 +20,10 @@ Outside of internships, I've delved into tackling interesting problems. I create
 
 Wanna chat? Feel free to reach out!
 
-Email: arsh.vishen@berkeley.edu
-[Linkedin](https://www.linkedin.com/in/arshvishen)
+- Email: arsh.vishen@berkeley.edu
+- [Linkedin](https://www.linkedin.com/in/arshvishen)
 
 ## 📠 Fun facts
 
 I love reading - here's some books I've read: 
+ 
