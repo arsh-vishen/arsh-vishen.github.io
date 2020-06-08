@@ -3,7 +3,7 @@
 
 ## 🤷 What I do
 
-I'm currently interning at [CyberCube](https://cybcube.com/), helping to deliver cyber risk analytics software for the insurance industry. 
+I'm currently a product management intern at [CyberCube](https://cybcube.com/), where I help deliver cyber risk analytics software for the insurance industry. 
 
 ## 🦕 What I've done before
 
