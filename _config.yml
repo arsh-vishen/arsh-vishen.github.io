@@ -27,7 +27,7 @@ nav-links:
     #external: true
 
 # for the homepage image + big text next to it
-greeting_image: 42182327_2094312790600591_1149206035773259776_o (1).jpg
+greeting_image: /42182327_2094312790600591_1149206035773259776_o (1).jpg
 # 100-200 characters recommended
 greeting_text: I'm entering my senior year at UC Berkeley, pursuing a simultaneous degree in data science and business administration as well as certificates in technology entrepreneurship and design. I'm passionate about combining data and customer empathy to create products that people love to use. 
 
