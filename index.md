@@ -1,30 +1,29 @@
 ---
 ---
 
-<img id="portrait" src="assets/me.jpg" alt="placeholder photo">
+## 🤷 What I do
 
-I'm Ethan Benjamin. I am currently a Computer Science freshman at Carleton University in Ottawa, Canada. 
+I'm majoring in Urban Planning with Computer Science & minoring in Comparative Media Studies. On campus, I dance, (try to) sing, & fry eggs at midnight with my friends.
 
-## You can contact me via:
+This summer, I’m doing technical marketing at [Gatsby](https://gatsbyjs.org/) & a retreat at the [Recurse Center](recurse.com). At the [Senseable City Lab](http://senseable.mit.edu/), I'm making a website to visualize air pollution data collected by sensors installed on garbage trucks and taxis.
 
-- [email](contactethanbenjamin@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/ethan-benjamin-4a3810128/)
-- [github](https://github.com/ebenji)
+## 🦕 What I've done before
 
+Last summer, I interned at [Repl.it](https://repl.it/), an online code editor supporting 50+ programming languages & a community of 2 million makers.
 
-## What I’m doing now:
+During high school, I organized [hackathons](http://mahacks.com/) & attempted bioinformatics research. I founded [Science and Us](http://scienceandus.org/) to introduce teens to the careers and anti-disciplinary mindset of science communication.
 
-- Taking COMP1805, COMP1405, MATH1007, CGSC1001, and PHIL2001 at Carleton 
-- Hacking away at Spotiset
-- Reading The Count of Monte Cristo
-- Deadlifting
+When I was 11, I loved Percy Jackson so much I ended up self-studying Modern Greek for 3 years, running a [linguistics Tumblr](http://subjunctivelymoody.tumblr.com/), and teaching myself Latin.
 
-Last updated December 2nd, 2019
+## 👋🏻 Say hi
 
+Wanna chat? Feel free to reach out!
+
+- Source code: [@katavie/point-theme](http://github.com/katavie/point-theme)
+- [Issues](https://github.com/katavie/point-theme/issues)
 
 ## 📠 Fun facts
 
-- This is the first website I have made
-- I own a guitar
-- I spend most of my time on Spotify
-- I don't know what else to put here
+- You can customize link colors, container width, and fonts in `styles/styles.scss`
+- This theme has built-in options for 2 different date formats: "November 12, 2018" and "Nov '18"
+- Be sure to look through the config file to change the site title, description, homepage greeting, and more
