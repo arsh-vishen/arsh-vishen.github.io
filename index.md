@@ -28,10 +28,10 @@ I believe the best way to get to know someone is to figure out what they read. H
 
 Technology 
 
-- <i> Inspired: How to Create Tech Products Customers Love </i>, Marty Cagan
-- <i> The Design of Everyday Things </i>, Don Norman 
-- <i> Secrets of Sand Hill Road: Venture Capital and How to Get it </i>, Scott Kupor
-- <i> Steve Jobs </i>, Walter Isaacson 
+- <i> Inspired: How to Create Tech Products Customers Love, </i> Marty Cagan
+- <i> The Design of Everyday Things, </i> Don Norman 
+- <i> Secrets of Sand Hill Road: Venture Capital and How to Get it, </i> Scott Kupor
+- <i> Steve Jobs, </i> Walter Isaacson 
  
 Leadership
 
