@@ -4,7 +4,7 @@
 
 - **Email**: arsh.vishen@berkeley.edu
 - **Resume**: pdf (last updated June 2020)
-- **LinkedIn**: /in/arshvishen[https://www.linkedin.com/in/arshvishen]
+- **LinkedIn**: /in/arshvishen [https://www.linkedin.com/in/arshvishen]
 
 
 
