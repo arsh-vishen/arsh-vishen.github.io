@@ -13,9 +13,9 @@ description: Data Science & Business Administration student at UC Berkeley
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
 nav-links:
-  - #name: Home
-    #url: /
-    #external: false
+  - name: Home
+    url: /
+    external: false
   - #name: Blog
     #url: /blog
     #external: false
