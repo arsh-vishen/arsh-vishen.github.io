@@ -1,7 +1,7 @@
 <br>
 
 - **Email**: arsh.vishen@berkeley.edu
-- **Resume**: [pdf (last updated June 2020)](resume.pdf)
+- **Resume**: [pdf (last updated June 2020)](Arsh_Vishen_Resume_March_2020 (1).pdf)
 - **LinkedIn**: [/in/arshvishen](http://linkedin.com/in/arshvishen)
 
 ## 🤷 What I do
