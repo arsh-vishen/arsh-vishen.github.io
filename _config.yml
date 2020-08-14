@@ -27,7 +27,7 @@ nav-links:
     #external: true
 
 # for the homepage image + big text next to it
-greeting_image: /me.jpg
+greeting_image: /me.jpeg
 # 100-200 characters recommended
 greeting_text: I'm an aspiring product manager graduating from UC Berkeley in May 2021. I'm completing a dual degree in data science and business administration as well as certificates in technology entrepreneurship and design.
 
