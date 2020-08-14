@@ -1,7 +1,7 @@
 <br>
 
 - **Email**: arsh.vishen@berkeley.edu
-- **Resume**: [pdf (last updated May 2020)](resume.pdf)
+- **Resume**: [pdf (last updated August 2020)](ArshVishen_Resume_Aug_2020_Final.pdf)
 - **LinkedIn**: [/in/arshvishen](http://linkedin.com/in/arshvishen)
 
 ## 🤷 What I do
@@ -33,6 +33,7 @@ Leadership
 
 - <i> Principles, </i> Ray Dalio 
 - <i> Deep Work, </i> Cal Newport
+- <i> How to Win Friends and Influence People, </i> Dale Carnegie
 
 Finance 
 
@@ -43,6 +44,7 @@ Finance
 History and Futurism
  - <i> Sapiens: A Brief History of Humankind, </i> Yuval Noah Harrari
  - <i> Homo Deus: A Brief History of Tomorrow, </i> Yuval Noah Harrari 
+ - <i> 21 Lessons for the 21st Century, </i> Yuval Noah Harrari 
  - <i> The Lessons of History, </i> Will and Ariel Durant 
  - <i> The Future of Humanity, </i> Michio Kaku 
  
@@ -52,6 +54,7 @@ History and Futurism
  - <i> The Power of Habit, </i> Charles Duhigg 
  - <i> Thinking, Fast and Slow, </i> Daniel Kahneman 
  - <i> The Meaning of Human Existence, </i> Edward O. Wilson 
+ 
  
  
  
