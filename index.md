@@ -16,6 +16,7 @@ Previously, I was a data science intern at [Western Union](https://westernunion.
 
 Outside of internships, I've delved into tackling interesting problems. I created [Saveior](https://saveior.com/), an alternative savings account solution for students and small businesses, and [HungerBot](https://scet.berkeley.edu/uc-berkeley-app-locates-food-pantries/0), a chatbot that connected food insecure community members to affordable food resources.
 
+I was also a research assistant at the Haas School of Business, where I ran experiments to analyze human judgment and decision making, social psychology, and consumer behavior. 
 
 ## 📠 Reading List 
 
