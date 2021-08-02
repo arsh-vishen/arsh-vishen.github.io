@@ -29,7 +29,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /me.jpeg
 # 100-200 characters recommended
-greeting_text: I'm a senior graduating from UC Berkeley in May 2021 and hoping to gain experience in product management or data science. I'm completing a dual degree in data science and business administration as well as certificates in technology entrepreneurship and design.
+greeting_text: I'm a product manager and recent grad from UC Berkeley where I studied data science, business administration, and design.
 
 # show blog post excerpts on blog page
 show_excerpts: false
