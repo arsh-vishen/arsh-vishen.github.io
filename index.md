@@ -12,7 +12,7 @@ I'm currently a product manager at [Palo Alto Networks](https://www.paloaltonetw
 
 ## 🦕 What I've done before
 
-Previously, I was a data scienctist intern at [PlayStation](https://www.playstation.com/en-us/), where I built ML models to predict sales of upcoming PS5 games. 
+Previously, I was a data scientist intern at [PlayStation](https://www.playstation.com/en-us/), where I built ML models to predict sales of upcoming PS5 games. 
 
 Outside of internships, I've delved into tackling interesting problems. I created [Saveior](https://saveior.com/), an alternative savings account solution for students and small businesses, and [HungerBot](https://scet.berkeley.edu/uc-berkeley-app-locates-food-pantries/0), a chatbot that connected food insecure community members to affordable food resources.
 
