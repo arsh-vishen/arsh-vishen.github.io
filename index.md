@@ -8,11 +8,11 @@
 
 I'm passionate about combining data-driven decision making and customer empathy to create products that people love. 
 
-I'm currently a product management intern at [CyberCube](https://cybcube.com/), where I help deliver cyber risk analytics software for the insurance industry. 
+I'm currently a product manager at [Palo Alto Networks](https://www.paloaltonetworks.com/), where I help design and deliver products to protect our digital way of life. 
 
 ## 🦕 What I've done before
 
-Previously, I was a data science intern at [Western Union](https://westernunion.com/), where I built ML algorithms to improve customer conversion. I have also interned as a private equity summer analyst at an SF-based search fund, where I was responsible for conducting industry research and financial analysis. 
+Previously, I was a data scienctist intern at [PlayStation](https://www.playstation.com/en-us/), where I built ML models to predict sales of upcoming PS5 games. 
 
 Outside of internships, I've delved into tackling interesting problems. I created [Saveior](https://saveior.com/), an alternative savings account solution for students and small businesses, and [HungerBot](https://scet.berkeley.edu/uc-berkeley-app-locates-food-pantries/0), a chatbot that connected food insecure community members to affordable food resources.
 
@@ -27,14 +27,15 @@ Technology
 
 - <i> Inspired: How to Create Tech Products Customers Love, </i> Marty Cagan
 - <i> The Design of Everyday Things, </i> Don Norman 
+- <i> Swipe to Unlock, </i> Neel Mehta, Parth Detroja, Adi Agashe 
 - <i> Secrets of Sand Hill Road: Venture Capital and How to Get it, </i> Scott Kupor
 - <i> Steve Jobs, </i> Walter Isaacson 
+- <i> Hooked, </i> Nir Eyal
  
 Leadership
 
 - <i> Principles, </i> Ray Dalio 
 - <i> Deep Work, </i> Cal Newport
-- <i> How to Win Friends and Influence People, </i> Dale Carnegie
 
 Finance 
 
